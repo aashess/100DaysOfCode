@@ -3,7 +3,7 @@
 Feeling excited to start Day 12th of 100 DaysOfCode, as I started prety Late to code. So today I have a lot of pending tasks. As well as have to document
 all of that learning like this. Today I learnt about Scope and Build a project related to that called Number Guessing Game. 
 
-I learnt through Angela Yuin Course from Udemy. 100DaysOfPython. 
+I learnt through Angela Yuin Course From Udemy. 100DaysOfPython. 
 Now I will start documenting like this Each and every day. 
 Today, Session includes Fundamentals of Scope and there importance in Python language. as well as also applied this in real world project. 
 
