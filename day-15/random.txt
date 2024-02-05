@@ -1,0 +1,29 @@
+### Espresso 
+    $1.50
+50ml water
+18g coffee
+
+### Latte
+    $2.50
+200ml water
+24g coffee
+150ml milk
+
+### cappuccino 
+  amount  $3.00
+250ml water
+24g coffee
+100ml milk
+
+*** Coffee Machine *** 
+300ml water
+200ml milk
+100g coffee
+
+-----Coin Operated-----
+Penny 1 Cent  0.01$
+Dime 10 Cents   0.10$
+Nickel 5 Cents  0.05$
+Quarter 25 Cents  0.25$
+Dollar 100 Cents. 1$ 
+
